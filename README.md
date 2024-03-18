@@ -1,4 +1,7 @@
-# co6d6447980497dd5775ab78d
+#Phrase-Gen
+AI generated phrases about your favorie activities and places to visit 
+
+co6d6447980497dd5775ab78d
 
 Quick start:
 
